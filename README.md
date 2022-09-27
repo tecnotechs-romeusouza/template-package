@@ -1,27 +1,37 @@
-# package_name
+# image_processing
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Descrição: 
+Criação do primeiro pacote de processamento de imagens com Python:
+Esse pacote será disponibilizado no repositório Pypi
+	Processing:
+			- Histogram matching
+			- Structural similiary
+			- Rezise image
+	Utils:
+			- Read image
+			- Save image
+			- Plot image
+			- Plot result
+			- plot histogram		
 
-## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+## Instalação
+
+Use o gerenciador de pacote [pip](https://pip.pypa.io/en/stable/) para instalar image_processing
 
 ```bash
 pip install package_name
 ```
 
-## Usage
+## Exemplo
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from image_processing.processing import combination
+combination.my_function()
 ```
 
-## Author
-My_name
+## Autor
+Romeu Souza
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
