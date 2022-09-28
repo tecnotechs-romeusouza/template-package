@@ -4,15 +4,15 @@ Descrição:
 Criação do primeiro pacote de processamento de imagens com Python:
 Esse pacote será disponibilizado no repositório Pypi
 	Processing:
-			- Histogram matching
-			- Structural similiary
-			- Rezise image
+		- Histogram matching
+		- Structural similiary
+		- Rezise image
 	Utils:
-			- Read image
-			- Save image
-			- Plot image
-			- Plot result
-			- plot histogram		
+		- Read image
+		- Save image
+		- Plot image
+		- Plot result
+		- plot histogram		
 
 
 ## Instalação
